@@ -6,7 +6,7 @@ import time
 # choose a delay time in seconds by modifying the next line
 delay = 60
 # below are the default location to put the files, and the name to use
-directory = "/home/pi/"
+directory = "/home/pi/web "
 filename = "spycam"
 stem = ".jpg"
 webfile = directory + filename + stem
