@@ -1,5 +1,3 @@
-#! /usr/bin/env python3
-
 # Spy-Pi code version 1
 # this code takes an image every minute (60 seconds), 
 # and overwrites the current image with the new one
@@ -8,7 +6,7 @@ import time
 # choose a delay time in seconds by modifying the next line
 delay = 60
 # below are the default location to put the files, and the name to use
-directory = "/home/pi/oreilly_camera "
+directory = "/home/pi/"
 filename = "spycam"
 stem = ".jpg"
 webfile = directory + filename + stem
