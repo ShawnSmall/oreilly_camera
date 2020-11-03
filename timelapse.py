@@ -1,3 +1,5 @@
+#! /usr/bin/env python3
+
 # Spy-Pi code version 1
 # this code takes an image every minute (60 seconds), 
 # and overwrites the current image with the new one
